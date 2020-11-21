@@ -18,3 +18,8 @@ a::b : Pseudoelement selector
 Metadata for Responsive design:
 1. <meta name="viewport" content="width=device-width, initial-scale=1.0">
 2. Media queries for responsive design.
+3. BootStrap Css Library.
+4. BootStrap Column Model. Every row
+is divided into 12 distinct columns, irrespective
+of device.
+5. Bootstrap helps to build web app having responsive design.
