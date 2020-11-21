@@ -1,0 +1,16 @@
+In case of conflict the following
+css specificity is used:
+
+1. inline
+2. id
+3. class
+4. type
+
+css selectors:
+a,b : Multiple element selector
+a b : Descendant selector
+a > b : Child selector
+a + b : Adjacent Sibling selector
+[a=b] : Attribute selector
+a:b : Psedoclass selector
+a::b : Pseudoelement selector
