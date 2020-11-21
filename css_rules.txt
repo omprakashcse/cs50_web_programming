@@ -24,3 +24,4 @@ is divided into 12 distinct columns, irrespective
 of device.
 5. Bootstrap helps to build web app having responsive design.
 6. Saas an extension of CSS.
+7. Saas allows variables and nesting in css.
